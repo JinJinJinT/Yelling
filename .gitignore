@@ -1,0 +1,5 @@
+node_modules/
+oldkey/
+authen.js
+config.js
+mythical*.json
