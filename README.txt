@@ -2,7 +2,7 @@ PLAN FOR THIS PROJECT: (at least it follows Twitter TOS now)
 
 VERSION 1:
 
-1. talk to twitter, make a new key, project, and shit
+1. talk to twitter, make a new key, project
 2. make a test tweet on popoff
 3. get the id of that tweet
 4. check for new tweets there
