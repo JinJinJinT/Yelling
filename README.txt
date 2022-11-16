@@ -1,4 +1,4 @@
-PLAN FOR THIS PROJECT: (at least it follows Twitter TOS now LMAO)
+PLAN FOR THIS PROJECT: (at least it follows Twitter TOS now)
 
 VERSION 1:
 
@@ -22,12 +22,12 @@ VERSION 3:
 3. make it not hackable
 
 REQS for a V3: 
-1. lmao u gotta know how to make a public fucking server dummy
+1. make public server
 2. I cry in front-end pain
 
 Maybe have a Version 3-(psuedo)
 1. I borrow some stuff from other things so I don't have to make the front and back-end on my own until I can
-   figure that shit out.
+   figure that out.
 
 
 ---------------------
